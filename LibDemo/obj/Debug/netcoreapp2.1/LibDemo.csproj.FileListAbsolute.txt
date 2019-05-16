@@ -1,0 +1,14 @@
+C:\Users\DELL\Source\Repos\LibDemo\LibDemo\bin\Debug\netcoreapp2.1\LibDemo.deps.json
+C:\Users\DELL\Source\Repos\LibDemo\LibDemo\bin\Debug\netcoreapp2.1\LibDemo.runtimeconfig.json
+C:\Users\DELL\Source\Repos\LibDemo\LibDemo\bin\Debug\netcoreapp2.1\LibDemo.runtimeconfig.dev.json
+C:\Users\DELL\Source\Repos\LibDemo\LibDemo\bin\Debug\netcoreapp2.1\LibDemo.dll
+C:\Users\DELL\Source\Repos\LibDemo\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.csprojAssemblyReference.cache
+C:\Users\DELL\Source\Repos\LibDemo\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\LibDemo\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.RazorAssemblyInfo.cache
+C:\Users\DELL\Source\Repos\LibDemo\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.RazorAssemblyInfo.cs
+C:\Users\DELL\Source\Repos\LibDemo\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\Source\Repos\LibDemo\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.AssemblyInfo.cs
+C:\Users\DELL\Source\Repos\LibDemo\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Source\Repos\LibDemo\LibDemo\bin\Debug\netcoreapp2.1\LibDemo.pdb
+C:\Users\DELL\Source\Repos\LibDemo\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.dll
+C:\Users\DELL\Source\Repos\LibDemo\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.pdb
