@@ -12,3 +12,17 @@ C:\Users\DELL\Source\Repos\LibDemo\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.Razor
 C:\Users\DELL\Source\Repos\LibDemo\LibDemo\bin\Debug\netcoreapp2.1\LibDemo.pdb
 C:\Users\DELL\Source\Repos\LibDemo\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.dll
 C:\Users\DELL\Source\Repos\LibDemo\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.pdb
+C:\Users\TRBC37\Desktop\Angular\Library\Library\LibDemo\bin\Debug\netcoreapp2.1\LibDemo.deps.json
+C:\Users\TRBC37\Desktop\Angular\Library\Library\LibDemo\bin\Debug\netcoreapp2.1\LibDemo.runtimeconfig.json
+C:\Users\TRBC37\Desktop\Angular\Library\Library\LibDemo\bin\Debug\netcoreapp2.1\LibDemo.runtimeconfig.dev.json
+C:\Users\TRBC37\Desktop\Angular\Library\Library\LibDemo\bin\Debug\netcoreapp2.1\LibDemo.dll
+C:\Users\TRBC37\Desktop\Angular\Library\Library\LibDemo\bin\Debug\netcoreapp2.1\LibDemo.pdb
+C:\Users\TRBC37\Desktop\Angular\Library\Library\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.csprojAssemblyReference.cache
+C:\Users\TRBC37\Desktop\Angular\Library\Library\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.csproj.CoreCompileInputs.cache
+C:\Users\TRBC37\Desktop\Angular\Library\Library\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.RazorAssemblyInfo.cache
+C:\Users\TRBC37\Desktop\Angular\Library\Library\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.RazorAssemblyInfo.cs
+C:\Users\TRBC37\Desktop\Angular\Library\Library\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.AssemblyInfoInputs.cache
+C:\Users\TRBC37\Desktop\Angular\Library\Library\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.AssemblyInfo.cs
+C:\Users\TRBC37\Desktop\Angular\Library\Library\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.RazorTargetAssemblyInfo.cache
+C:\Users\TRBC37\Desktop\Angular\Library\Library\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.dll
+C:\Users\TRBC37\Desktop\Angular\Library\Library\LibDemo\obj\Debug\netcoreapp2.1\LibDemo.pdb
